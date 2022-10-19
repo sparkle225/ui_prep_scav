@@ -1,0 +1,206 @@
+.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #2c3034 !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #222222 !important;
+}
+.well {
+  background-color: #222 !important; 
+}
+.text-filter {
+  display: block !important;
+  font-size: .8em;
+}
+
+.form-inline .form-control {
+  width: calc(100% - .1em);
+  font-size: 11px;
+}
+
+.formControlEdit{
+  width: 100% !important;
+}
+
+.react-bootstrap-table>table>thead>tr>th .filter {
+  width: calc(100% - .01em);
+}
+.react-bootstrap-table>table>thead>tr>th .date-filter-comparator, .react-bootstrap-table>table>thead>tr>th .number-filter-comparator {
+  width: 25px;
+}
+
+.react-bootstrap-table>table>thead>tr>th .number-filter-input {
+  font-size: .8em;
+  width: calc(100% - 1em);
+}
+
+.react-bootstrap-table>table>thead>tr>th .date-filter-input {
+  width: calc(100% - 2.25em);
+  margin-left: 0px;
+  font-size: .8em;
+}
+
+
+
+.btnToolBar{
+  margin-left:10px !important;
+  float: right !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  margin-right:20px !important;
+}
+
+td .btnToolBar {
+  margin-bottom: 0px !important;
+}
+.btnToolBarMulti{
+  margin-left:30px !important;
+  float: right !important;
+  margin-top: 10px !important;
+}
+
+textarea.form-control {
+  height:100px !important;
+}
+
+textarea.has-error.form-control {
+  height:100px !important;
+}
+
+
+
+p.has-error{
+  color:red !important
+}
+
+div.has-error{
+  color:red !important;
+  word-wrap: break-word;
+}
+
+label.has-error{
+  color:red !important
+}
+
+label.required {
+  content:'*' !important;
+  margin-right: 4px !important;
+  color:red !important;
+}
+
+.sub-button{
+  color:#5c7d9f;
+}
+
+.search{
+  width: 75px;
+  margin-left: 20px;
+}
+
+#search-bar-0 {
+  width:400px;    
+}
+.searchInput button {
+  padding: 6px 9px;
+  font-size: 13px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.react-bs-table-csv-btn
+{
+  padding: 6px 9px !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  border-radius: 3px !important;
+}
+
+
+.configTextArea textarea{
+  width:100% !important;
+  height:75px !important;
+  word-wrap:break-word !important;
+  -moz-box-sizing:border-box;
+  margin:0;
+  overflow:auto;
+  position:relative;
+  vertical-align:top;
+  box-sizing:border-box;
+}
+
+.configText textarea{
+  width:100% !important;
+  height:25px !important;
+}
+#search-bar-0 {
+  width:400px;    
+}
+.searchInput button {
+  padding: 6px 9px;
+  font-size: 13px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.react-bs-table-csv-btn
+{
+  padding: 6px 9px !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  border-radius: 3px !important;
+}
+
+.modal{
+  display:block;
+  opacity: 1;
+}
+
+.printContainer{
+  margin:0px;
+  padding:0px;
+  width:850px;
+  height:1000px;
+  clear:both;
+  page-break-after: always;
+}
+
+.tablePrintTD{
+  word-wrap:break-word;
+  -moz-box-sizing:border-box;
+  margin:0;
+  overflow:auto;
+  position:relative;
+  vertical-align:top;
+  box-sizing:border-box;
+}
+
+.tablePrintTR{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.dateFilter{
+  width: 40px;
+}
+
+.importantMessage{
+  padding: 5px;
+  color:red;
+  font-weight: bold;
+}
+
+.popover {
+  left: 1520px !important;
+  display: block !important;
+  min-height: 400px !important;
+  width: 400px !important;
+  top: 45px !important;
+  padding: 10px !important;
+}
+.popover li {
+  list-style:none;
+}
+.username {
+  cursor:pointer;
+}
+.username:hover {
+  color:red;
+}
